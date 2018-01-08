@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>start</key>
+		<string>开始游戏</string>
+		<key>setting</key>
+		<string>游戏设置</string>
+		<key>exit</key>
+		<string>退出游戏</string>
+		<key>backhome</key>
+		<string>返回</string>
+		<key>loading</key>
+		<string>正在装载...</string>
+		<key>loaded</key>
+		<string>游戏马上开始!</string>
+	</dict>
+</plist>

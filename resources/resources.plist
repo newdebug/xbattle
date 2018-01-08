@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTDPLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Sounds</key>
+		<array>
+			<key>effect</key>
+			<string>audio/sounds/explode_0.wav</string>
+			<key>effect</key>
+			<string>audio/sounds/laser_0.wav</string>
+			<key>effect</key>
+			<string>audio/sounds/laser_0.mp3</string>
+		</array>
+		<key>Music</key>
+		<array>
+			<key>background</key>
+			<string></string>
+		</array>
+	</dict>
+</plist>
